@@ -1,11 +1,11 @@
 {
-  "name": "helioslauncher",
+  "name": "enderverselauncher",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
+  "productName": "Enderverse Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
